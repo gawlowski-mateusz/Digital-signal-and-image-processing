@@ -1,0 +1,6 @@
+name: dsaip
+dependencies:
+  - python=3.12.2
+  - jupyter==1.0.0
+  - scipy==1.12.0
+  - seaborn==0.13.2
